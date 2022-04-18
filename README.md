@@ -31,3 +31,7 @@
 
 ✔ Web de John El Consultor para encontrar recursos gratuitos <https://www.johnelconsultor.com.co/> <br>
 ✔ Link de Tiktok para la lista de reproducción <https://www.tiktok.com/@johnelconsultor> <br>
+
+
+-----
+Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
