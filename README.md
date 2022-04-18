@@ -28,5 +28,6 @@
 ✔ Dato Curioso : *Mi hobby es pegarle al asadito* 🥩 <br><br><br><br>
  
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Links Pertinentes***
-✔ Web de John El Consultor para encontrar recursos gratuitos <https://www.johnelconsultor.com.co/>
-✔ Link de Tiktok para la lista de reproducción <https://www.tiktok.com/@johnelconsultor>
+
+✔ Web de John El Consultor para encontrar recursos gratuitos <https://www.johnelconsultor.com.co/> <br>
+✔ Link de Tiktok para la lista de reproducción <https://www.tiktok.com/@johnelconsultor> <br>
