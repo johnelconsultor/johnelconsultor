@@ -33,4 +33,4 @@
 
 
 -----
-Credits: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
+Credits to: [Ovindu Wijethunge](https://github.com/OvinduWijethunge)
