@@ -20,9 +20,9 @@
 <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp;***Sobre mi ....***
 
 ✔ Llámame: ***John el Consultor*** o ***Tu amigo*** o ***Tu papá*** 😊 <br>
-✔ Actualmente trabajo como gerente de consultoría**Sinhala language**<br>
+✔ Actualmente trabajo como gerente de consultoría<br>
 ✔ Actualmente estoy enseñando python y análisis de datos gratuitamente 🥰<br>
-✔ Buscando personas que quieran colaborar en la creación de proyectos oriendatos a la data**<br>
+✔ Buscando personas que quieran colaborar en la creación de proyectos orientados a la data<br>
 ✔ Pregunta lo quieras, si lo se te lo respondo, si no lo se lo aprendemos juntos😉<br>
 ✔ Dato Curioso : *Mi hobby es pegarle al asadito* 🥩 <br><br><br><br>
  
